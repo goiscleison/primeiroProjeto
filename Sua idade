@@ -1,0 +1,11 @@
+int main() {
+	//Atividade 3
+	
+	int total, idade;
+	printf ("Digite sua idade: ");
+	scanf ("%d", &idade);
+	
+	total = 2024-idade;
+	printf("Voce nasceu em: %d", total);
+	
+}
